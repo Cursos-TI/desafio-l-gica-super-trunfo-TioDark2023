@@ -12,7 +12,7 @@ int main(){
     printf("4.       Sair               \n");
     printf("Digite O Numero Para Seguir:"),(scanf("%d",&opcao)),printf("\n");
 
-    // Primeira carta 
+    // Primeira carta
     int carta=1,Populacao=7.330483,NumeroTuristicos=86;
     char Estado='G',Codigarta[10]="G01",NomeCidade[20]="Goiais";
     float Areakm=340.086;
